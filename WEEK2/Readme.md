@@ -8,18 +8,18 @@ Before transitioning completely to MediaPipe, several important computer vision 
 
 Learned how to:
 
-**Access the system webcam using `cv2.VideoCapture()`
-* Read frames continuously using `cap.read()`
-* Display live video streams
-* Handle keyboard events using `cv2.waitKey()`
-* Release resources using `cap.release()`
+1.Access the system webcam using `cv2.VideoCapture()`
+2.Read frames continuously using `cap.read()`
+3.Display live video streams
+4.Handle keyboard events using `cv2.waitKey()`
+5.Release resources using `cap.release()`
 
 ### Video Recording
 
 Implemented video recording using:
 
-* `cv2.VideoWriter()`
-* `cv2.VideoWriter_fourcc()`
+*`cv2.VideoWriter()`
+*`cv2.VideoWriter_fourcc()`
 
 Concepts learned:
 
