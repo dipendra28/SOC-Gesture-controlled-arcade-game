@@ -15,21 +15,16 @@
 pip install opencv-python
 pip instal 
 
----
 
 ## Python Basics Revision
 
-Topics Covered:
+Variables and Data Types
+ Conditional Statements & Loops
 
-* Variables and Data Types
-* Conditional Statements
-* Loops
+Practice was done through cs50 exercises 
 
-Practice was done through small Python exercises and examples.
 
----
-
-## OpenCV Introduction
+## OpenCV
 
 OpenCV is an open-source computer vision library used for image processing and video analysis.
 
