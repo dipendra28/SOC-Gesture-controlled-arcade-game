@@ -30,7 +30,7 @@ OpenCV is an open-source computer vision library used for image processing and v
 
 ### Topics Learned
 
-#### Image Processing
+#### *Image Processing
 
  Rotating Images
  
@@ -42,7 +42,7 @@ OpenCV is an open-source computer vision library used for image processing and v
 
 
 
-#### Drawing Operations
+#### *Drawing Operations
 
 
 Drawing Circles
@@ -53,7 +53,7 @@ Adding Text to Images
 
 Drawing Rectangles
 
-#### Video Processing
+#### *Video Processing
 
  Webcam Access 
  
@@ -66,7 +66,7 @@ Drawing Rectangles
 
 ## Key Functions Learned
 
-### Image Handling
+### *Image Handling
 
   cv2.imshow()
   
@@ -74,7 +74,7 @@ Drawing Rectangles
 
   cv2.imwrite()
 
-### Drawing
+### *Drawing
 
  cv2.line()
 
@@ -84,7 +84,7 @@ Drawing Rectangles
 
  cv2.putText()
 
-### Video
+### *Video
 
 cv2.VideoCapture()
 
