@@ -1,4 +1,4 @@
-# Week 1: Environment Setup, Python Basics & OpenCV Introduction
+# Week 1: Environment Setup, Python Basics & OpenCV 
 
 ## Environment Setup
 
