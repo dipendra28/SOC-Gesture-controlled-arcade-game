@@ -1,2 +1,2 @@
 # SOC-Gesture-controlled-arcade-game
-SOC PROJECT 
+TThis repository contains a gesture-controlled arcade game project containting weekly assingment and notes of SOC 2026. It uses computer vision and handtracking technology to enable touchless gameplay. The project includes the game source code, gesture recognition logic, and necessary assets required to run and modify the game. It serves as an example of integrating realtime gesture controls with interactive gaming experiences.
