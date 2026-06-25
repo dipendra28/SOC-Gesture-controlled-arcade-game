@@ -32,49 +32,66 @@ OpenCV is an open-source computer vision library used for image processing and v
 
 #### Image Processing
 
-* Reading Images
-* Displaying Images
-* Resizing Images
-* Cropping Images
-* Rotating Images
+ Rotating Images
+ 
+ Resizing Images
+ 
+ Reading Images
+ 
+ Displaying Images
+
+
 
 #### Drawing Operations
 
-* Drawing Lines
-* Drawing Rectangles
-* Drawing Circles
-* Adding Text to Images
+
+Drawing Circles
+
+Drawing Lines
+
+Adding Text to Images
+
+Drawing Rectangles
 
 #### Video Processing
 
-* Webcam Access
-* Capturing Video Frames
-* Displaying Live Webcam Feed
-* Keyboard Event Handling using cv2.waitKey()
+ Webcam Access 
+ 
+ Displaying Live Webcam Feed
+ 
+ Capturing Video Frames
 
----
+ Keyboard Event Handling using cv2.waitKey()
+
 
 ## Key Functions Learned
 
 ### Image Handling
 
-* cv2.imread()
-* cv2.imshow()
-* cv2.imwrite()
+  cv2.imshow()
+  
+  cv2.imread()
+
+  cv2.imwrite()
 
 ### Drawing
 
-* cv2.line()
-* cv2.rectangle()
-* cv2.circle()
-* cv2.putText()
+ cv2.line()
+
+ cv2.circle()
+  
+ cv2.rectangle()
+
+ cv2.putText()
 
 ### Video
 
-* cv2.VideoCapture()
-* cap.read()
-* cv2.waitKey()
-* cap.release()
+cv2.VideoCapture()
 
----
+cap.read()
+
+cv2.waitKey()
+
+cap.release()
+
 
