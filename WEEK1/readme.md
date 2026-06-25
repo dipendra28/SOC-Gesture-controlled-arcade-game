@@ -4,16 +4,16 @@
 
 ### Software Installed
 
-* Python 3.11
-* Visual Studio Code
-* Python Extension for VS Code
+ Visual Studio Code
+ Python Extension for VS Code
+ Python 3.11
+ 
+ 
 
-### Python Libraries Installed
+###Libraries Installed
 
-```bash
 pip install opencv-python
-pip install numpy
-```
+pip instal 
 
 ---
 
