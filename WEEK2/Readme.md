@@ -36,6 +36,17 @@ Common codecs studied:
 
 ### Image Smoothing and Noise Reduction
 
+#### Median Blur
+
+Used for removing salt-and-pepper noise.
+
+Concepts:
+
+* Median filtering
+* Edge preservation
+
+
+
 #### Gaussian Blur
 
 Used for smoothing images by applying a weighted average to neighboring pixels.
@@ -46,14 +57,6 @@ Concepts:
 * Sigma value
 * Noise reduction
 
-#### Median Blur
-
-Used for removing salt-and-pepper noise.
-
-Concepts:
-
-* Median filtering
-* Edge preservation
 
 ### Image Sharpening
 
@@ -66,6 +69,22 @@ Concepts:
 * Image depth (`ddepth`)
 
 ### Edge Detection
+
+### Bitwise Operations
+
+Learned image masking and image combination techniques using:
+
+* `cv2.bitwise_and()`
+* `cv2.bitwise_or()`
+* `cv2.bitwise_not()`
+
+Applications:
+
+* Region extraction
+* Object masking
+* Image compositing
+
+
 
 #### Canny Edge Detection
 
@@ -90,19 +109,7 @@ Concepts:
 * Threshold value
 * Maximum pixel value
 
-### Bitwise Operations
 
-Learned image masking and image combination techniques using:
-
-* `cv2.bitwise_and()`
-* `cv2.bitwise_or()`
-* `cv2.bitwise_not()`
-
-Applications:
-
-* Region extraction
-* Object masking
-* Image compositing
 
 ### Contour Detection
 
