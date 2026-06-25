@@ -1,6 +1,6 @@
 # Week 2: Introduction to MediaPipe
 
-## Additional OpenCV Concepts Explored
+## Additional OpenCV Concepts 
 
 Before transitioning completely to MediaPipe, several important computer vision concepts in OpenCV were explored.
 
@@ -8,7 +8,7 @@ Before transitioning completely to MediaPipe, several important computer vision 
 
 Learned how to:
 
-* Access the system webcam using `cv2.VideoCapture()`
+**Access the system webcam using `cv2.VideoCapture()`
 * Read frames continuously using `cap.read()`
 * Display live video streams
 * Handle keyboard events using `cv2.waitKey()`
