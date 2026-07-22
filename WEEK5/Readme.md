@@ -1,8 +1,6 @@
-# Week 5: Understanding the Snake Game (Pygame)
+# Week 5: Learning Snake Game (Pygame)
 
-## Goal
-
-This week focused on understanding the provided keyboard-controlled Snake Game built using Pygame. The objective was to learn how the game is structured so that keyboard controls can later be replaced with hand gesture controls using MediaPipe in the upcoming weeks.
+In this week we will understand the provided keyboard controlled Snake Game built using Pygame. The goal  is to learn how the game is structured so we cam use these keyboard controls  later in  replacing  with hand gesture controls using MediaPipe.
 
 ---
 
