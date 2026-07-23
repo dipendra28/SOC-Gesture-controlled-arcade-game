@@ -13,7 +13,7 @@
 ### Libraries Installed
 
 pip install opencv-python
-pip instal 
+pip install numpy
 
 
 ## Python Basics Revision
